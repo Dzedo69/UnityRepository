@@ -218,7 +218,7 @@ GameObject:
   - component: {fileID: 208180955}
   - component: {fileID: 208180954}
   m_Layer: 0
-  m_Name: Circle
+  m_Name: Sigma ball
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
